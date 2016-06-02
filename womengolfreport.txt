@@ -1,0 +1,14 @@
+
+
+Rnd1 Rnd2 Rnd3 Rnd4 Total Average Golfer Name
+67  68  69  70  274  68.5  Caroline Masson
+67  68  69  69  273  68.25  Lexi Thompson
+66  67  68  69  270  66.5  Shansahn Shadoff
+65  67  68  68  268  64.5  Sally Recari
+68  67  65  66  266  65.5  Ilhee Feng
+65  67  68  66  266  63.5  Brittany Ji
+66  66  66  68  266  66.5  Eun-Hee Creamer
+64  66  67  65  262  67.5  Jodi Lee
+67  66  68  58  259  66.5  Paula Walshe
+65  62  65  66  258  67  Beatriz Field
+65  62  64  63  254  64.75  Allison Lang
